@@ -1,0 +1,21 @@
+{
+    "KPlugin": {
+        "Id": "com.github.mertemr.z407",
+        "Name": "Z407 Remote",
+        "Description": "Control the Logitech Z407 speaker's own volume, bass, playback and input over Bluetooth LE",
+        "Icon": "audio-speakers",
+        "Category": "Multimedia",
+        "Authors": [
+            {
+                "Name": "Mert Emirimam"
+            }
+        ],
+        "Website": "https://github.com/mertemr/z407-plasma-remote",
+        "License": "MIT",
+        "Version": "1.0.0"
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "Hardware"
+}
